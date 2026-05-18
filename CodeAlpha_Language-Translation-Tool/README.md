@@ -52,7 +52,7 @@ CodeAlpha_Language-Translation-Tool/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mailmekratika-sketch/CodeAlpha.git
 ```
 
 ### 2️⃣ Navigate to the project folder
