@@ -51,8 +51,8 @@ FAQ-Chatbot/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd FAQ-Chatbot
+git clone https://github.com/mailmekratika-sketch/CodeAlpha.git
+cd CodeAlpha_Chatbot-for-FAQ
 ```
 
 ---
